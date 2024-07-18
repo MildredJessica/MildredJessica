@@ -1,5 +1,5 @@
 ## Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:.
-**Software Engineer/Data Scientist.**
+### **Software Engineer/Data Scientist.**
 
 - 🔭 I’m currently working on a ReactJs Project.
 - - 👯 I’m looking to collaborate on projects that will broaden my horizon.
