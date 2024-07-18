@@ -1,5 +1,6 @@
 ## Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:.
-**Software Engineer/Data Scientist**
+**Software Engineer/Data Scientist.**
+
 
 <!--
 **MildredJessica/MildredJessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
