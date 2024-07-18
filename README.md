@@ -1,4 +1,4 @@
-## Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:
+## Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:.
 
      ### **Software Engineer/Data Scientist**
 
