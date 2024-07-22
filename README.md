@@ -1,4 +1,4 @@
-<p text="center">
+<p align="center">
   ##   Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:.
   ##     Software Engineer/Data Scientist.
 </p>
