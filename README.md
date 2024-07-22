@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" text="bold">
   ##   Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:.
 </p>
 
