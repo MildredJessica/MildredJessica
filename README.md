@@ -1,11 +1,8 @@
-<p align="center" text="bold">
-  ##   Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:.
-</p>
 
-<p align="center">
+ ##   Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:.
+
+
   ##   Software Engineer/Data Scientist.
-</p>
-
 
 - 🔭 I’m currently working on a ReactJs Projects.
 - 👯 I’m looking to collaborate on projects that will broaden my horizon.
