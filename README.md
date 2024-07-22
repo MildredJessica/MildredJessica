@@ -9,6 +9,9 @@
 - ⚡ Fun fact: I love travelling and exploring new ideas
 - 📫 How to reach me: nwonyejessica@gmail.com
 
+### Connect with me:
+
+
 <!--
 **MildredJessica/MildredJessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
