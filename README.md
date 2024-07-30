@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hi there 👋 am Mildred Jessica Nwonye AKA Mimi :hugs:.</h2> 
-<h3 align="center">Software Engineer/Data Scientist.</h3>
+<h3 align="center">Software Engineer</h3>
 
 
  
